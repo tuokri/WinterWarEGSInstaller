@@ -1,0 +1,3 @@
+# WinterWarEGSInstaller
+
+More info TBD.
